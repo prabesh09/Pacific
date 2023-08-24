@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Pacific",
+  "version": "1.0",
+  "description": "A minimalist new tab extension, creating a seamless blend of functionality and mindfulness.",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon/icon16.png",
+      "48": "icon/icon48.png",
+      "128": "icon/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon/icon16.png",
+    "48": "icon/icon48.png",
+    "128": "icon/icon128.png"
+  },
+  "icons": {
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

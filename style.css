@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    height: 100vh;
+    background: url(./images/01.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 11vmax;
+    display: grid;
+    place-content: center;
+    color: #f0f0f0;
+    user-select: none;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+#quotes-container {
+    position: absolute;
+    bottom: 11px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+#quotes-container p {
+    font-family: "Poppins", sans-serif;
+    font-size: 1vmax;
+}
+
+@media (max-width: 555px) {
+    #container {
+        font-size: 22vmin;
+    }
+}
