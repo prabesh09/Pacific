@@ -4,4 +4,4 @@ A Momentum like minimalist new tab extension...
 
 ## Preview
 
-![Preview](https://github.com/prabesh09/Pacific/blob/main/images/preview.png?raw=true)
+![Preview](https://i.postimg.cc/1t95m0Zw/preview.png)
