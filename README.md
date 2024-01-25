@@ -1,5 +1,6 @@
 # Pacific
-A momentum-like minimalist new tab extension, creating a seamless blend of functionality and mindfulness.
+
+A Momentum like minimalist new tab extension...
 
 ## Preview
 
